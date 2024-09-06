@@ -3,92 +3,176 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Resume of Piyush Kumar - M.Tech in Computer Science, experienced in Oracle Fusion SCM projects">
+    <meta name="description" content="Tech-themed biodata of Piyush Kumar - M.Tech in Computer Science, with ERP and Oracle Fusion expertise">
     <meta name="author" content="Piyush Kumar">
-    <title>Piyush Kumar | Resume</title>
+    <title>Piyush Kumar | Tech Bio</title>
     <style>
-        body {
-            font-family: Arial, sans-serif;
+        /* Basic resets */
+        * {
             margin: 0;
             padding: 0;
-            background-color: #f4f4f4;
-            color: #333;
+            box-sizing: border-box;
         }
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #1e1e1e;
+            color: #ffffff;
+        }
+
+        /* Tech-themed container */
+        .container {
+            max-width: 1200px;
+            margin: 20px auto;
+            background-color: #282828;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.2);
+            animation: fadeIn 2s ease-in-out;
+        }
+
+        /* Header styling */
         header {
-            background-color: #0073b1;
-            color: white;
-            padding: 20px;
             text-align: center;
+            margin-bottom: 40px;
         }
         header h1 {
-            margin: 0;
-            font-size: 2.5em;
+            font-size: 3em;
+            color: #00d9ff;
         }
-        .container {
-            width: 80%;
-            margin: 20px auto;
-            background-color: white;
-            padding: 20px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        header p {
+            font-size: 1.2em;
+            margin: 10px 0;
         }
-        section {
+
+        /* Profile picture */
+        .profile-pic {
+            border-radius: 50%;
+            width: 150px;
+            height: 150px;
+            object-fit: cover;
+            margin: 0 auto;
+            display: block;
+            border: 5px solid #00d9ff;
+            animation: slideIn 1.5s ease-out;
+        }
+
+        /* Section titles */
+        h2 {
+            font-size: 2em;
+            color: #00d9ff;
+            border-bottom: 2px solid #00d9ff;
             margin-bottom: 20px;
         }
-        h2 {
-            color: #0073b1;
-            border-bottom: 2px solid #0073b1;
-            padding-bottom: 5px;
-            margin-bottom: 10px;
-        }
+
+        /* Styling for lists */
         ul {
             list-style-type: none;
-            padding: 0;
+            margin-left: 20px;
         }
         ul li {
             margin-bottom: 10px;
+            line-height: 1.6;
         }
+
+        /* Hover effect for list items */
+        ul li:hover {
+            color: #00ffba;
+            transition: color 0.3s ease-in-out;
+        }
+
+        /* Footer styling */
         footer {
             text-align: center;
-            margin: 20px 0;
+            margin-top: 50px;
             color: #777;
+            font-size: 0.9em;
         }
-        a {
-            color: #0073b1;
+
+        /* Animations */
+        @keyframes fadeIn {
+            0% {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+            100% {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        @keyframes slideIn {
+            0% {
+                opacity: 0;
+                transform: scale(0.5);
+            }
+            100% {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        /* Button styling for LinkedIn/LeetCode */
+        .btn {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 10px;
+            background-color: #00d9ff;
+            color: #1e1e1e;
             text-decoration: none;
+            font-weight: bold;
+            border-radius: 5px;
+            transition: background-color 0.3s ease-in-out;
+        }
+        .btn:hover {
+            background-color: #00ffba;
+        }
+
+        /* Media queries for responsiveness */
+        @media (max-width: 768px) {
+            header h1 {
+                font-size: 2.5em;
+            }
+            .container {
+                padding: 20px;
+            }
         }
     </style>
 </head>
 <body>
-    <header>
-        <h1>Piyush Kumar</h1>
-        <p>+91 8709679022 | <a href="mailto:piyushgoutam27@gmail.com">piyushgoutam27@gmail.com</a> | <a href="https://www.linkedin.com/in/piyush-kumar789" target="_blank">LinkedIn</a> | <a href="https://leetcode.com/u/piyushgoutam27/" target="_blank">LeetCode</a></p>
-    </header>
-
     <div class="container">
+        <header>
+            <img src="profile-pic.jpg" alt="Piyush Kumar" class="profile-pic"> <!-- Add your photo file with this name -->
+            <h1>Piyush Kumar</h1>
+            <p>+91 8709679022 | <a href="mailto:piyushgoutam27@gmail.com" class="btn">Email Me</a></p>
+            <a href="https://www.linkedin.com/in/piyush-kumar789" class="btn" target="_blank">LinkedIn</a>
+            <a href="https://leetcode.com/u/piyushgoutam27/" class="btn" target="_blank">LeetCode</a>
+        </header>
+
+        <!-- Education Section -->
         <section>
             <h2>Education</h2>
             <ul>
                 <li><strong>IIIT Hyderabad, Telangana</strong> — M.Tech, Computer Science and Engineering (July 2024 - Present)</li>
-                <li><strong>Jadavpur University, Kolkata, West Bengal</strong> — B.E., Mechanical Engineering - 9.14/10.0 (August 2018 - May 2022)</li>
-                <li><strong>Leeds Asian School, Patna, Bihar</strong> — AISSCE, CBSE - 91.8% (June 2016 - May 2018)</li>
-                <li><strong>Mount Assisi School, Bhagalpur, Bihar</strong> — ICSE, CISCE - 97.17% (May 2016)</li>
+                <li><strong>Jadavpur University, Kolkata</strong> — B.E., Mechanical Engineering - 9.14/10.0 (August 2018 - May 2022)</li>
+                <li><strong>Leeds Asian School, Patna</strong> — AISSCE, CBSE - 91.8% (June 2016 - May 2018)</li>
+                <li><strong>Mount Assisi School, Bhagalpur</strong> — ICSE, CISCE - 97.17% (May 2016)</li>
             </ul>
         </section>
 
+        <!-- Work Experience Section -->
         <section>
             <h2>Work Experience</h2>
             <ul>
-                <li>
-                    <strong>Associate (Technical Consultant) - PriceWaterHouseCoopers (PwC), Bengaluru, India (July 2022 - April 2023)</strong>
+                <li><strong>Associate (Technical Consultant) - PriceWaterHouseCoopers (PwC), Bengaluru (July 2022 - April 2023)</strong>
                     <ul>
-                        <li>Implemented ERP solutions focusing on Oracle Fusion OM Module</li>
+                        <li>Implemented ERP solutions, focusing on Oracle Fusion OM Module</li>
                         <li>Expertise in business process analysis, system configuration, data migration, testing, and training</li>
-                        <li>Led Oracle Fusion SCM projects to enhance business process efficiency</li>
+                        <li>Enhanced business process efficiency through Oracle Fusion SCM projects</li>
                     </ul>
                 </li>
             </ul>
         </section>
 
+        <!-- Technical Skills Section -->
         <section>
             <h2>Technical Skills</h2>
             <ul>
@@ -98,19 +182,20 @@
             </ul>
         </section>
 
+        <!-- Projects Section -->
         <section>
             <h2>Projects</h2>
             <ul>
-                <li>
-                    <strong>Wishlist App | Self Project</strong>
+                <li><strong>Wishlist App | Self Project</strong>
                     <ul>
-                        <li>Developed a basic wishlist application using HTML, CSS, and Javascript</li>
-                        <li>Implemented functionalities using DOM manipulation, event handling, and local storage</li>
+                        <li>Developed a wishlist application using HTML, CSS, and JavaScript</li>
+                        <li>Used DOM manipulation, event handling, and local storage</li>
                     </ul>
                 </li>
             </ul>
         </section>
 
+        <!-- Certifications Section -->
         <section>
             <h2>Certifications</h2>
             <ul>
@@ -120,6 +205,7 @@
             </ul>
         </section>
 
+        <!-- Extracurricular Section -->
         <section>
             <h2>Extracurricular Activities</h2>
             <ul>
@@ -128,6 +214,7 @@
             </ul>
         </section>
 
+        <!-- Academic Achievements Section -->
         <section>
             <h2>Academic Achievements</h2>
             <ul>
@@ -135,10 +222,10 @@
                 <li>WBJEE 2018 — Achieved a rank of 807</li>
             </ul>
         </section>
-    </div>
 
-    <footer>
-        <p>&copy; 2024 Piyush Kumar</p>
-    </footer>
+        <footer>
+            <p>&copy; 2024 Piyush Kumar | All rights reserved</p>
+        </footer>
+    </div>
 </body>
 </html>
