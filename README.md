@@ -1,6 +1,11 @@
-# M.Tech '26
+# Biography
 
-#### Technical Skills: C++, SQL, MongoDB, JavaScript, React, Java, Node.js, Bash
+I am currently pursuing a Master of Technology (M.Tech) in Computer Science and Engineering (CSE) at IIIT-H, following a diverse academic and professional journey. With a Bachelor of Technology (B.Tech) in Mechanical Engineering from Jadavpur University, I have seamlessly transitioned from mechanical systems to the digital world of computing. This interdisciplinary background provides a unique perspective on problem-solving, combining the rigor of mechanical engineering with the innovation of computer science.
+
+Before embarking on my M.Tech journey, I worked as a consultant at PricewaterhouseCoopers (PwC), where they gained valuable experience in business strategy, data analysis, and project management. 
+
+Outside of academics and work, I am passionate about cricket and reading novels. I enjoy playing cricket as a way to stay active and sharpen their team-building skills. When not on the field, I can often be found immersed in novels, exploring a wide range of genres that fuel their creativity and broaden their worldview.
+
 
 ## Education
 - M.Tech., CSE | IIIT Hyderabad, Telangana (_Aug 2024 -_)								       		
@@ -30,6 +35,9 @@ Built a basic wishlist application to discover user interface,capture user input
 functionalities.Explored DOM manipulation, event handling and local storage to create a seamless user experience.
 
   
+#### Technical Skills: C++, SQL, MongoDB, JavaScript, React, Java, Node.js, Bash
+
+
 ## Coursework
 - DBMS \| Operating System \| OOPS \| Data Structures and Algorithms
 - Web Development \| System Design(LLD)
@@ -42,7 +50,6 @@ functionalities.Explored DOM manipulation, event handling and local storage to c
 - System Design \| _GeeksforGeeks_
 
 
-  
 ## Extracurriculars
 -  JU E-Cell Member
 -  JU Motorsports Club Member
