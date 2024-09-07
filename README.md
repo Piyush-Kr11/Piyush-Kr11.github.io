@@ -4,7 +4,7 @@
 
 ## Education
 - M.Tech., CSE | IIIT Hyderabad, Telangana (_Aug 2024 -_)								       		
-- B.Tech., Mech Engg.	| Jadavpur University, WB (_Aug 2018 - June 2022_)
+- B.Tech., Mech Engg. | Jadavpur University, WB (_Aug 2018 - June 2022_)
 
     
 
@@ -41,7 +41,6 @@ functionalities.Explored DOM manipulation, event handling and local storage to c
 - MERN Stack Web Development \| _GeeksforGeeks_
 - System Design \| _GeeksforGeeks_
 
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
   
 ## Extracurriculars
