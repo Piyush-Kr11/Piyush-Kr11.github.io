@@ -3,9 +3,10 @@
 #### Technical Skills: C++, SQL, MongoDB, JavaScript, React, Java, Node.js, Bash
 
 ## Education
-- M.Tech., Computer Science | IIIT Hyderabad, Telangana (_Aug 2024 -_)								       		
-- B.Tech., Mechanical Engineering	| Jadavpur University, WB (_Aug 2018 - June 2022_)	 			        		
-- XII | Leeds Asian School, Patna, Bihar (_May 2018_)
+- M.Tech., CSE | IIIT Hyderabad, Telangana (_Aug 2024 -_)								       		
+- B.Tech., Mech Engg.	| Jadavpur University, WB (_Aug 2018 - June 2022_)	 			        		
+
+
 
 ## Work Experience
 **Associate (Technical Consultant) @ _PriceWaterHouseCoopers(PwC), Bengaluru, India July 2022 - April 2023_**
@@ -14,6 +15,8 @@
 within Oracle Fusion SCM projects.
 - Facilitated seamless implementation and adoption of Oracle Fusion SCM solutions, leading to enhanced business
 process efficiency and operational effectiveness.
+
+
 
 ## Projects
 ### POSIX Compliant Shell
@@ -30,10 +33,10 @@ functionalities.Explored DOM manipulation, event handling and local storage to c
 -    Web Development | System Design(LLD)
 
 ## Certifications
-- Algorithmic Toolbox | _Coursera_
-- Competitive Programming | _GeeksforGeeks_
-- MERN Stack Web Development | _GeeksforGeeks_
-- System Design | _GeeksforGeeks_
+- Algorithmic Toolbox \| _Coursera_
+- Competitive Programming \| _GeeksforGeeks_
+- MERN Stack Web Development \| _GeeksforGeeks_
+- System Design \| _GeeksforGeeks_
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
