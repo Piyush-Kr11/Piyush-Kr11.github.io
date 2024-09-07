@@ -4,9 +4,9 @@
 
 ## Education
 - M.Tech., CSE | IIIT Hyderabad, Telangana (_Aug 2024 -_)								       		
-- B.Tech., Mech Engg.	| Jadavpur University, WB (_Aug 2018 - June 2022_)	 			        		
+- B.Tech., Mech Engg.	| Jadavpur University, WB (_Aug 2018 - June 2022_)
 
-
+    
 
 ## Work Experience
 **Associate (Technical Consultant) @ _PriceWaterHouseCoopers(PwC), Bengaluru, India July 2022 - April 2023_**
@@ -17,6 +17,7 @@ within Oracle Fusion SCM projects.
 process efficiency and operational effectiveness.
 
 
+  
 
 ## Projects
 ### POSIX Compliant Shell
@@ -28,10 +29,12 @@ As a part of Course curriculum developed a POSIX-compliant shell environment des
 Built a basic wishlist application to discover user interface,capture user input and implement essential
 functionalities.Explored DOM manipulation, event handling and local storage to create a seamless user experience.
 
+  
 ## Coursework
-- DBMS | Operating System | OOPS | Data Structures and Algorithms
--    Web Development | System Design(LLD)
+- DBMS \| Operating System \| OOPS \| Data Structures and Algorithms
+- Web Development \| System Design(LLD)
 
+  
 ## Certifications
 - Algorithmic Toolbox \| _Coursera_
 - Competitive Programming \| _GeeksforGeeks_
@@ -40,6 +43,7 @@ functionalities.Explored DOM manipulation, event handling and local storage to c
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
+  
 ## Extracurriculars
 -  JU E-Cell Member
 -  JU Motorsports Club Member
