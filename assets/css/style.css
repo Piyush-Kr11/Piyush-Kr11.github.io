@@ -541,3 +541,13 @@ background: linear-gradient(0deg, rgba(34,193,195,0.8) 0%, rgba(45,253,132,0.8) 
 #title{
     color: #000000;
 }
+.profile-links{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.view{
+  font-size: large;
+  margin: 7.5px;
+  padding: 7.5px; 
+}
